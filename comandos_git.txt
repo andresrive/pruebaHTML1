@@ -5,3 +5,8 @@ git init
 git status
 git add .
 git commit -m "texto identificador"
+git log (te muestra los commits que has hecho)
+git checkout + ID del commit (vuelves a anteriores versiones)
+git checkout master (para volver a la rama master o cambiar de rama en general)
+git branch (lista de ramas)
+git checkout -b dev (creé una nueva rama llamada dev)
